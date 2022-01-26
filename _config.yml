@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website of Philipp M. Lersch who is a sociologist at Humboldt-Universität zu Berlin and DIW Berlin.
 twitter_username: PMLersch
 github_username: pmlersch
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: dirt
 search: false
 
 # Build settings
